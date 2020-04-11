@@ -30,9 +30,5 @@ public class MyProgramm {
         for (GraphicElement g: graphics){
             g.render();
         }
-
-
-
-
     }
 }
